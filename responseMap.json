@@ -1,0 +1,257 @@
+{
+  "user json is invalid": {
+    "code": "CE_AU_9801",
+    "message": "User JSON is invalid.",
+    "error_level": 0
+  },
+  "invalid userjson": {
+    "code": "CE_AU_9801",
+    "message": "Invalid userjson.",
+    "error_level": 0
+  },
+  "invalid user json": {
+    "code": "CE_AU_9801",
+    "message": "Invalid userjson.",
+    "error_level": 0
+  },
+  "entitlement api unavailable": {
+    "code": "SE_AU_9802",
+    "message": "Internal error, entitlement API unavailable.",
+    "error_level": 0
+  },
+  "invalid user": {
+    "code": "CE_AU_9803",
+    "message": "Invalid user.",
+    "error_level": 0
+  },
+  "invalid start date": {
+    "code": "CE_AU_9804",
+    "message": "Invalid start date.",
+    "error_level": 0
+  },
+  "invalid end date": {
+    "code": "CE_AU_9805",
+    "message": "Invalid end date.",
+    "error_level": 0
+  },
+  "invalid entitlement id": {
+    "code": "CE_AU_9806",
+    "message": "Invalid entitlement ID.",
+    "error_level": 0
+  },
+  "as user and entitlement not matching": {
+    "code": "CE_AU_9807",
+    "message": "Incorrect eid as user and entitlement not matching.",
+    "error_level": 0
+  },
+  "invalid error_leveluct or entitlement id": {
+    "code": "CE_AU_9808",
+    "message": "Invalid error_leveluct or entitlement ID.",
+    "error_level": 0
+  },
+  "invalid new status or status transition": {
+    "code": "CE_AU_9809",
+    "message": "Invalid new status or status transition.",
+    "error_level": 0
+  },
+  "entitlement is already marked as deleted": {
+    "code": "CE_AU_9810",
+    "message": "Entitlement is already marked as deleted.",
+    "error_level": 0
+  },
+  "invalid error_leveluct": {
+    "code": "CE_AU_9811",
+    "message": "Invalid error_leveluct.",
+    "error_level": 0
+  },
+  "user not found": {
+    "code": "CE_AU_9812",
+    "message": "User not found.",
+    "error_level": 0
+  },
+  "activation already exists": {
+    "code": "CE_AU_9813",
+    "message": "Activation already exists.",
+    "error_level": 0
+  },
+  "unexpected activation error": {
+    "code": "SE_AU_9814",
+    "message": "Unexpected activation error.",
+    "error_level": 0
+  },
+  "required parameter is missing from the request": {
+    "code": "CE_AU_9815",
+    "message": "Required parameter is missing from the request.",
+    "error_level": 0
+  },
+  "the timestamp is too old for the request": {
+    "code": "CE_AU_9816",
+    "message": "The timestamp is too old for the request.",
+    "error_level": 0
+  },
+  "uuid does not match md5": {
+    "code": "CE_AU_9817",
+    "message": "UUID does not match md5",
+    "error_level": 0
+  },
+  "invalid e-mail address format": {
+    "code": "CE_AU_9818",
+    "message": "Invalid e-mail address format.",
+    "error_level": 0
+  },
+  "not authorized to use the getuserjson parameter uid": {
+    "code": "CE_AU_9819",
+    "message": "Access denied! Not authorized to use the getUserJSON parameter uid.",
+    "error_level": 0
+  },
+  "email or userid (or both) is required": {
+    "code": "CE_AU_9820",
+    "message": "Email or userid (or both) is required.",
+    "error_level": 0
+  },
+  "the country code is not two characters long": {
+    "code": "CE_AU_9821",
+    "message": "The country code is not two characters long.",
+    "error_level": 0
+  },
+  "system does not recognise the country code": {
+    "code": "CE_AU_9822",
+    "message": "The system does not recognise the country code.",
+    "error_level": 0
+  },
+  "missing username, email address, itunes receipt, or google play token": {
+    "code": "CE_AU_9823",
+    "message": "Missing username, email address, itunes receipt, or google play token.",
+    "error_level": 0
+  },
+  "name not valid :": {
+    "code": "CE_AU_9824",
+    "message": "Name not valid.",
+    "error_level": 0
+  },
+  "email not valid :": {
+    "code": "CE_AU_9825",
+    "message": "Email not valid.",
+    "error_level": 0
+  },
+  "missing email address": {
+    "code": "CE_AU_9826",
+    "message": "Missing email address.",
+    "error_level": 0
+  },
+  "email is already registered :": {
+    "code": "CE_AU_9827",
+    "message": "Email is already registered.",
+    "error_level": 0
+  },
+  "not all parameters are present": {
+    "code": "CE_AU_9828",
+    "message": "Not all parameters are present.",
+    "error_level": 0
+  },
+  "we do not have a user to test this password against": {
+    "code": "UE_AU_9829",
+    "message": "We do not have a user to test this password against.",
+    "error_level": 0
+  },
+  "password invalid": {
+    "code": "UE_AU_9830",
+    "message": "Password invalid.",
+    "error_level": 0
+  },
+  "does not have the role:": {
+    "code": "CE_AU_9831",
+    "message": "The user with this identifier does not have the correct role, so it can not be deleted.",
+    "error_level": 0
+  },
+  "already has role": {
+    "code": "CE_AU_9832",
+    "message": "This user already has the requested role.",
+    "error_level": 0
+  },
+  "no userjson has been passed into be validated": {
+    "code": "CE_AU_9833",
+    "message": "No userjson has been passed into be validated.",
+    "error_level": 0
+  },
+  "the userjson does not include uid": {
+    "code": "CE_AU_9834",
+    "message": "The userjson does not include uid.",
+    "error_level": 0
+  },
+  "the user with identifier:": {
+    "code": "CE_AU_9835",
+    "message": "The user with the given identifier can not be located.",
+    "error_level": 0
+  },
+  "the userjson check value does not match": {
+    "code": "CE_AU_9836",
+    "message": "The userjson check value does not match.",
+    "error_level": 0
+  },
+  "api key does not have permission to use a third party signed userjson": {
+    "code": "CE_AU_9837",
+    "message": "API key does not have permission to use a Third Party Signed UserJSON.",
+    "error_level": 0
+  },
+  "one or more of the values are not present": {
+    "code": "CE_AU_9838",
+    "message": "One or more of the values are not present.",
+    "error_level": 0
+  },
+  "the token is not correct": {
+    "code": "CE_AU_9839",
+    "message": "The token is not correct.",
+    "error_level": 0
+  },
+  "ip address restriction logged:": {
+    "code": "CE_AU_9840",
+    "message": "IP address restriction logged.",
+    "error_level": 0
+  },
+  "access denied (ip address restriction)": {
+    "code": "CE_AU_9841",
+    "message": "Access denied (ip address restriction)!",
+    "error_level": 0
+  },
+  "no expiry date passed in, unable to validate": {
+    "code": "CE_AU_9842",
+    "message": "No expiry date passed in, unable to validate.",
+    "error_level": 0
+  },
+  "expiry date is invalid": {
+    "code": "CE_AU_9843",
+    "message": "Expiry date is invalid.",
+    "error_level": 0
+  },
+  "start date is invalid": {
+    "code": "CE_AU_9844",
+    "message": "Start date is invalid.",
+    "error_level": 0
+  },
+  "already passed, from your value of": {
+    "code": "CE_AU_9845",
+    "message": "Invalid expiry date.",
+    "error_level": 0
+  },
+  "later than expiry": {
+    "code": "CE_AU_9846",
+    "message": "Invalid start date.",
+    "error_level": 0
+  },
+  "access denied": {
+    "code": "CE_AU_9847",
+    "message": "Access denied!",
+    "error_level": 0
+  },
+  "password must be atleast 8 characters long": {
+    "code": "UE_AU_9848",
+    "message": "Password must be atleast 8 characters long.",
+    "error_level": 0
+  },
+  "default_response": {
+    "code": "SE_AU_9999",
+    "message": "Default response",
+    "error_level": 0
+  }
+}
